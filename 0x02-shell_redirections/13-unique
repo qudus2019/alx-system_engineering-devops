@@ -1,2 +1,3 @@
 #!/bin/bash
-#awk '{if(!a[$0]++)print $0}' | sort
+tr ' ' '\n' | sort | uniq -u
+
