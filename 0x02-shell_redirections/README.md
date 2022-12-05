@@ -1,3 +1,4 @@
-This is tyis directory readme file
-This is a practice directory for redi.
-This readme is part of requirement
+This is not empty
+2nd line
+3rd line
+3rd line
