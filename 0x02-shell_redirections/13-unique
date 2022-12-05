@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | uniq
+#awk '{if(!a[$0]++)print $0}' | sort
